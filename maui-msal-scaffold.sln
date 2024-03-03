@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{95B14611-6410-4E5E-8FE0-9EFD4DD8FAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Msal.Maui", "src\Msal.Maui\Msal.Maui.csproj", "{D535D9CF-3A03-47F8-B3BB-D4089BC4AFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D535D9CF-3A03-47F8-B3BB-D4089BC4AFED} = {95B14611-6410-4E5E-8FE0-9EFD4DD8FAFC}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D535D9CF-3A03-47F8-B3BB-D4089BC4AFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D535D9CF-3A03-47F8-B3BB-D4089BC4AFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D535D9CF-3A03-47F8-B3BB-D4089BC4AFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D535D9CF-3A03-47F8-B3BB-D4089BC4AFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
